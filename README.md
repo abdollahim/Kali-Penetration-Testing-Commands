@@ -2,7 +2,7 @@
 This is a repository that I will collect and put my experimental commands for <strong>Kali</strong> penetration testing purposes. (General commands)
 
 ## Acknowledgements
-<strong>Here you can find all commands you need on the online courses I mention below:</strong>
+<strong>Here you can find all commands you need for the online courses I mention below:</strong>
 
 ### WiFi Hacking: Wireless Penetration Testing for Beginners [Video]
  - [https://www.packtpub.com/product/wifi-hacking-wireless-penetration-testing-for-beginners-video/9781789530193](https://www.packtpub.com/product/wifi-hacking-wireless-penetration-testing-for-beginners-video/9781789530193 "Wireless Penetration Testing for Beginners")
