@@ -1,5 +1,5 @@
 # Kali-Penetration-Testing-Commands
-This is a repository that I will collect and put my experimental commands for Kali penetration testing purposes. (General commands)
+This is a repository that I will collect and put my experimental commands for <strong>Kali</strong> penetration testing purposes. (General commands)
 
 ## Acknowledgements
 <strong>Here you can find all commands you need on the online courses I mention below:</strong>
